@@ -2,6 +2,8 @@
 <img src="http://up.mackenzie.br/fileadmin/CONFIGURACOES/SITES/UP_MACKENZIE/Resources/Public/Icons/Touch/196.png" width="140px">
 </p>
 
+# Link do site em rpodução : https://devmack.herokuapp.com/
+
 # O que é o Macklabs Organizational System
 É um sistema que tem como objetivo organizar todas as informações de equipamentos e tarefas do nucleo de suporte técnico do mackenzie, entre algumas funcionalidades, estão:
 * Organização de Ativos.
@@ -43,7 +45,7 @@ Para a prototipação de cada funcionalidade, será utilizada as seguintes ferra
 
 ## Página de Teste
 Página criada para testes e acompanhamento de novas features.
-* (https://mosystem.herokuapp.com) : Locada em www.heroku.com
+* (https://devmack.herokuapp.com/) : Locada em www.heroku.com
 
 `Última atualização: 08/05/2017`
 
