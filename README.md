@@ -2,7 +2,7 @@
 <img src="http://up.mackenzie.br/fileadmin/CONFIGURACOES/SITES/UP_MACKENZIE/Resources/Public/Icons/Touch/196.png" width="140px">
 </p>
 
-# https://devmack.herokuapp.com/
+
 
 # O que é o Macklabs Organizational System
 É um sistema que tem como objetivo organizar todas as informações de equipamentos e tarefas do nucleo de suporte técnico do mackenzie, entre algumas funcionalidades, estão:
@@ -12,6 +12,8 @@
 * Empréstimo de ativos
 * Softwares
 * Informações dos técnicos e dos laboratorios de informatica
+
+# acesso: https://devmack.herokuapp.com/
 
 `Última atualização: 08/05/2017`
 
