@@ -2,8 +2,6 @@
 <img src="http://up.mackenzie.br/fileadmin/CONFIGURACOES/SITES/UP_MACKENZIE/Resources/Public/Icons/Touch/196.png" width="140px">
 </p>
 
-
-
 # O que é o Macklabs Organizational System
 É um sistema que tem como objetivo organizar todas as informações de equipamentos e tarefas do nucleo de suporte técnico do mackenzie, entre algumas funcionalidades, estão:
 * Organização de Ativos.
